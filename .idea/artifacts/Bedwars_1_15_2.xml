@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Bedwars 1.15.2">
+    <output-path>$USER_HOME$/Desktop/Plugin Stuff/1.15.2 Server/plugins</output-path>
+    <root id="archive" name="Bedwars 1.15.2.jar">
+      <element id="module-output" name="Bedwars 1.15.2" />
+    </root>
+  </artifact>
+</component>

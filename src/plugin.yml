@@ -1,0 +1,16 @@
+name: Bedwars
+version: 0.3
+author: Phlilipp
+main: me.phlilipp.bedwars.Main
+api-version: 1.13
+
+commands:
+  start:
+  test:
+  isUnbreakable:
+  suicide:
+
+advancements:
+  disable-saving: true
+  disabled:
+    - '*'
